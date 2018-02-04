@@ -1,0 +1,2 @@
+# JavaSampleCode43
+ローカルクラス
